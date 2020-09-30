@@ -1,0 +1,19 @@
+body {
+  color: darkorange;
+  background-image: url("https://static01.nyt.com/images/2020/03/06/sports/06tahiti-surfWEB1/06tahiti-surfWEB1-videoSixteenByNineJumbo1600.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1, h2{
+  font-family: 'Bangers', sans-serif ;
+  text-align: center;
+}
+
+p{
+  font-family: 'Exo 2', sans-serif;
+}
+
+img {
+  width: 200px;
+}
